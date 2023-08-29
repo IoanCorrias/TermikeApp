@@ -1,2 +1,6 @@
 r-base
 r-base-dev
+r-cran-readr
+r-cran-tuneR
+r-cran-fda
+r-cran-seewave
